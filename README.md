@@ -1,3 +1,12 @@
+## Skills
+
+<div>
+  <sup>TODAY</sup>
+  <div>
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
+  </div>
+</div>
+
 ## Stats
 
 <div>
