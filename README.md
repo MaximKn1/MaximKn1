@@ -1,11 +1,12 @@
+# Hi, I'm Maxim Knyazkin
+
+Currently studying neural network papers. Also, I like developing games.
+
 ## Skills
 
-<div>
-  <sup>TODAY</sup>
-  <div>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
-  </div>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,bash)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
 
 ## Stats
 
