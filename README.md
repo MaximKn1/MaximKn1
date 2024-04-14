@@ -4,7 +4,7 @@ Currently studying neural network papers. Also, I like developing games.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,go,bash)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
 
