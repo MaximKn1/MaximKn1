@@ -1,6 +1,6 @@
 # Hi, I'm Maxim Knyazkin
 
-Currently studying neural network papers. Also, I like developing games.
+I like developing games and game engines.
 
 ## Skills
 
